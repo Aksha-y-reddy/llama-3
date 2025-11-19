@@ -8,5 +8,6 @@ evaluate==0.4.1
 scikit-learn==1.5.2
 sentencepiece==0.1.99
 wandb==0.17.12
+tqdm==4.66.1
 
 

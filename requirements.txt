@@ -10,5 +10,6 @@ scikit-learn>=1.6.0
 sentencepiece==0.1.99
 wandb==0.18.7
 tqdm>=4.67.0
+triton
 
 
